@@ -13,7 +13,8 @@ class ComicController extends Controller
      */
     public function index()
     {
-        
+        $dati=Comic::all();
+        return view('Comics.index',compact("dati"));
     }
 
     /**
