@@ -1,0 +1,12 @@
+CREATE 
+READ 
+UPDATE 
+DELETE
+
+le richieste CRUD vengono usate in quello che sono le chiamate di tipo REST 
+
+REST : representation state transfer 
+
+ Risorse =fonti di informazioni a cui si può accedere tramite un identificatore globale
+
+ SERVERE E CLIENT COMUNICANO TRAMITE JSON 
