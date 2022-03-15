@@ -1,0 +1,32 @@
+@import '../variables.scss';
+
+nav {
+    width: $container-width;
+    height: 100%;
+    padding: 20px 0;
+
+    // logo
+    .ms_left {
+        img {
+            height: 90px;
+        }
+    }
+    .ms_right {
+        ul {
+            li {
+                margin: 0 10px;
+                font-size: 15px;
+                font-weight: bold;
+
+                a {
+                    text-decoration: none;
+                    color: #333;
+
+                    
+                }
+
+                
+            }
+        }
+    }
+}
